@@ -5,4 +5,6 @@ Compared PageRank method versus Borda count method, W-Borda, and plurality metho
 
 # Singular Value Decomposition
 
-# Image Compression using Photo of Mandrill
+# Rank Approximation using Photo of Mandrill
+
+# TO BE SUBMITTED: Compress Image of Mandrill into R,G,B and Greyscale
