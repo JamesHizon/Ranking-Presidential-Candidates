@@ -26,7 +26,7 @@ We don’t need each voter to rank the candidates; only the voter’s first choi
 Borda:
 Candidate with highest total is winner
 
-# Massey's Method
+# Massey's Method For More Buckets
 
 Starting off with a question, who will win the 2020 NBA Finals?
 
