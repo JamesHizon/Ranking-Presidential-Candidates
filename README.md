@@ -32,13 +32,9 @@ Starting off with a question, who will win the 2020 NBA Finals?
 
 <img src="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbluemanhoop.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1154518288.jpeg&amp;c=sc&amp;w=850&amp;h=560" alt="OAKLAND, CALIFORNIA - JUNE 07: Stephen Curry #30 of the Golden State Warriors reacts late in the game against the Toronto Raptors in the second half during Game Four of the 2019 NBA Finals at ORACLE Arena on June 07, 2019 in Oakland, California. NOTE TO USER: User expressly acknowledges and agrees that, by downloading and or using this photograph, User is consenting to the terms and conditions of the Getty Images License Agreement. (Photo by Ezra Shaw/Getty Images)"/>
 
-Well, using Massey's Method, we can make predictions that will increase the further we go in the season. We would be able to make predictions based off W-L Ratio, increase of team chemistry, teams left to play, improvement of player's in regards to stats sheet (FG Percentage), or even W-L Ratio against top contenders like the Lakers who are stacked with Lebron, Anthony Davis, Demarcus Cousins, Rajon Rondo and Danny Green
+Well, using Massey's Method, we can make predictions that will increase the further we go in the season. We would be able to make predictions based off W-L Ratio, increase of team chemistry, teams left to play, improvement of player's in regards to stats sheet (FG Percentage), or even W-L Ratio against top contenders like the Lakers who are stacked with Lebron, Anthony Davis, Demarcus Cousins, Rajon Rondo and Danny Green.
 
-<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png" alt="LeBron James"/>
-<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000468.png" alt="Anthony Davis"/>
-<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000862.png" alt="DeMarcus Cousins"/>
-<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000530.png" alt="Rajon Rondo"/>
-<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000650.png" alt="Danny Green"/>
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png" alt="LeBron James"/>    <img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000468.png" alt="Anthony Davis"/>   <img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000862.png" alt="DeMarcus Cousins"/>    <img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000530.png" alt="Rajon Rondo"/>   <img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000650.png" alt="Danny Green"/>
 
 SEE WIKIPEDIA LINK for more info:
 
