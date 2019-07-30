@@ -1,5 +1,7 @@
 # Ranking-Presidential-Candidates
-Compared PageRank method versus Borda count method, W-Borda, and plurality method in ranking candidates.
+Do we want Trump as the next president?
+
+Part of a project, my partner Tanner and I compared the PageRank method versus Borda count method, W-Borda, and plurality method in ranking candidates.
 
 <img src="https://psmag.com/.image/t_share/MTU3ODk2MjI5MjUzMDMxMjQx/gettyimages-1020986360.jpg" alt="President Donald Trump arrives for a political rally at the Charleston Civic Center in Charleston, West Virginia, on August 21st, 2018."/>
 
@@ -77,6 +79,3 @@ Website:
 https://picturethismaths.wordpress.com/2016/06/08/tensor-approximation-of-a-colour-photo/
 
 <img src="https://picturethismaths.files.wordpress.com/2016/06/jun8.png?w=636" alt="Jun8"/>
-
-
-
