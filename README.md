@@ -61,17 +61,14 @@ Used low-rank approximation using SVD to reduce dimensionality for the sake of m
 # Compress Image into R,G,B and Greyscale
 
 Note: Any image can be used to compress image on R,G,B.
-The file to be read is SVD.
+The file to be read is SVD.py.
 
-<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/552596061a26c59f15f11554ef17b6e7b3b2ed5a/2-Figure1-1.png" alt="Figure 1 Image unfolding and the preparation of an image matrix"/>
+Example Photo Using Image of Cat:
 
+Website:
+https://picturethismaths.wordpress.com/2016/06/08/tensor-approximation-of-a-colour-photo/
 
-
-
-
-
-
-
+<img src="https://picturethismaths.files.wordpress.com/2016/06/jun8.png?w=636" alt="Jun8"/>
 
 
 
