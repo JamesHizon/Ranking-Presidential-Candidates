@@ -17,8 +17,9 @@ Every page âiâ has liâ¥1 outlinks. Sij =..."/>
 
 
 Plurality:
-Candidate with the most first-place votes (called the plurality candidate) wins
-Don’t need each voter to rank the candidates - need only the voter’s first choice
+Candidate with the most first-place votes (called the plurality candidate) wins.
+
+We don’t need each voter to rank the candidates; only the voter’s first choice is needed.
 
 Borda:
 Candidate with highest total is winner
