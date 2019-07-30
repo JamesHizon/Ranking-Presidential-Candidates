@@ -58,9 +58,12 @@ Given a matrix A, we decompose into left, diagonal and right singular value matr
 Then, we cut of k singular values, so that we can reduce dimensionality.
 We don't want to cut off too many, otherwise we will get a poor representation of the data.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Singular_value_decomposition_visualisation.svg/220px-Singular_value_decomposition_visualisation.svg.png" alt="Image result for singular value decomposition"/>
+
 # Rank Approximation using Photo of Mandrill
 
 Used low-rank approximation using SVD to reduce dimensionality for the sake of minimizing the cost of data storage.
+Also, reduces time complexity.
 
 <img src="https://www.researchgate.net/profile/Nicolas_Le_Bihan/publication/224744791/figure/fig2/AS:302848744149001@1449216175991/Singular-values-of-the-mandrill-color-image.png" alt="Singular values of the mandrill color imageÂ "/>
 
