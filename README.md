@@ -26,15 +26,23 @@ Candidate with highest total is winner
 
 # Massey's Method
 
+Starting off with a question, who will win the 2020 NBA Finals?
+
 <img src="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbluemanhoop.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1154518288.jpeg&amp;c=sc&amp;w=850&amp;h=560" alt="OAKLAND, CALIFORNIA - JUNE 07: Stephen Curry #30 of the Golden State Warriors reacts late in the game against the Toronto Raptors in the second half during Game Four of the 2019 NBA Finals at ORACLE Arena on June 07, 2019 in Oakland, California. NOTE TO USER: User expressly acknowledges and agrees that, by downloading and or using this photograph, User is consenting to the terms and conditions of the Getty Images License Agreement. (Photo by Ezra Shaw/Getty Images)"/>
 
-Used to measure performance.
+Well, using Massey's Method, we can make predictions that will increase the further we go in the season. We would be able to make predictions based off W-L Ratio, increase of team chemistry, teams left to play, improvement of player's in regards to stats sheet (FG Percentage), or even W-L Ratio against top contenders like the Lakers who are stacked with Lebron, Anthony Davis, Demarcus Cousins, Rajon Rondo and Danny Green
+
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000571.png" alt="LeBron James"/>
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000468.png" alt="Anthony Davis"/>
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000862.png" alt="DeMarcus Cousins"/>
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000530.png" alt="Rajon Rondo"/>
+<img src="https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/nba/low-res/20000650.png" alt="Danny Green"/>
 
 SEE WIKIPEDIA LINK for more info:
 
 https://en.wikipedia.org/wiki/Kenneth_Massey
 
-"The Massey Ratings are designed to measure past performance, not necessarily to predict future outcomes. The first challenge for any computer rating system is to account for the variability in performance. 
+Massey Ratings are designed to measure past performance, not necessarily to predict future outcomes. The first challenge for any computer rating system is to account for the variability in performance. 
 
 A team will not always play up to its full potential. Other random factors (officiating, bounce of the ball) may also affect the outcome of a game. 
 
@@ -44,7 +52,7 @@ A team will not always play up to its full potential. Other random factors (offi
 
 It is necessary to achieve a reasonable balance between rewarding teams for wins, convincing wins, and playing a tough schedule. This issue is difficult to resolve, and rating systems exist that are based on each of the extremes. 
 
-The overall team rating is a merit based quantity, and is the result of applying a Bayesian win-loss correction to the power rating. Only the score, venue, and date of each game are used to calculate the Massey ratings. Stats such as rushing yards, rebounds, or field-goal percentage are not included. Nor are game conditions such as weather, crowd noise, day/night, or grass/artificial turf. Overtime games are not treated any differently. Finally, neither injuries nor psychological factors like motivation are considered."
+The overall team rating is a merit based quantity, and is the result of applying a Bayesian win-loss correction to the power rating. Only the score, venue, and date of each game are used to calculate the Massey ratings. Stats such as rushing yards, rebounds, or field-goal percentage are not included. Nor are game conditions such as weather, crowd noise, day/night, or grass/artificial turf. Overtime games are not treated any differently. Finally, neither injuries nor psychological factors like motivation are considered.
 
 # Singular Value Decomposition
 
