@@ -1,4 +1,4 @@
-# Ranking-Presidential-Candidates
+# Ranking Presidential Candidates
 Do we want Trump as the next president?
 
 Part of a project, my partner Tanner and I compared the PageRank method versus Borda count method, W-Borda, and plurality method in ranking candidates.
@@ -51,6 +51,8 @@ A team will not always play up to its full potential. Other random factors (offi
 It is necessary to achieve a reasonable balance between rewarding teams for wins, convincing wins, and playing a tough schedule. This issue is difficult to resolve, and rating systems exist that are based on each of the extremes. 
 
 The overall team rating is a merit based quantity, and is the result of applying a Bayesian win-loss correction to the power rating. Only the score, venue, and date of each game are used to calculate the Massey ratings. Stats such as rushing yards, rebounds, or field-goal percentage are not included. Nor are game conditions such as weather, crowd noise, day/night, or grass/artificial turf. Overtime games are not treated any differently. Finally, neither injuries nor psychological factors like motivation are considered.
+
+NOTE: I wrote this to understand the concepts  of Massey Ranking.
 
 # Singular Value Decomposition
 
